@@ -1,5 +1,5 @@
-### OIE:)
-Sou a Maria Antônia, estou na segunda fase de Análise e Desenvolvimento de Sistemas, na Faculdade Municipal de Palhoça. Tenho sede de conhecimento, experiencia e inovação! 
+### Oie:)
+Eu sou a Maria Antônia, atualmente estou na segunda fase de Análise e Desenvolvimento de Sistemas, na Faculdade Municipal de Palhoça. Tenho sede de conhecimento, experiencia e inovação! 
 
 - 👩‍💻 **Estagiária** de Marketing
 - 📚 Apaixonada por **livros**
