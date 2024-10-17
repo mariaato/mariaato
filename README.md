@@ -5,9 +5,9 @@ Eu sou a Maria Antônia, atualmente estou na segunda fase de Análise e Desenvol
 - 📚 Apaixonada por **livros**
 - 🥊 Buscando minha melhor versão sempre
 
- ## My Skills
+ ## Minhas Habilidades
 
- **Applications**
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
