@@ -1,7 +1,7 @@
 ### Oie:)
 Eu sou a Maria Antônia, atualmente estou na segunda fase de Análise e Desenvolvimento de Sistemas, na Faculdade Municipal de Palhoça. Tenho sede de conhecimento, experiencia e inovação! 
 
-- 👩‍💻 **Estagiária** de Marketing
+- 👩‍💻 **Estagiária** em Desenvolvimento
 - 📚 Apaixonada por **livros**
 - 🥊 Buscando minha melhor versão sempre
 
